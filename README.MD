@@ -24,7 +24,7 @@ Before using Zakky Project, ensure the following dependencies are installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/zakky-project.git
+git clone https://github.com/thea725/lab-zakky.git
 cd zakky-project
 ```
 
