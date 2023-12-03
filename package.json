@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "aedes": "^0.50.0",
-    "mosca": "^2.8.3",
-    "mqtt": "^5.0.5"
+    "aedes": "^0.50.0"
   }
 }
